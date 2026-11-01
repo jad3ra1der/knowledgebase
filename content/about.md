@@ -1,0 +1,2 @@
+
+My name is Jade Pendleton, I am a computer science student at Texas Tech University. I was born and raised in Lubbock, Texas, and have been fascinated with technology from a very young age. I've honed my computer science skills my entire life, and aspire to have a full time job in Information Technology.

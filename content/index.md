@@ -1,9 +1,9 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Pokémon (All 1025 of them)
 ---
-## The index page
+## Pokémon
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+This is a knowledge base of the in-game statistics and mechanics of all 1025* Pokémon, it's going to be a lot of numbers and a lot of math.
 
 ## Editing pages
 
