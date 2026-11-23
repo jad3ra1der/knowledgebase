@@ -6,6 +6,8 @@ title: Pokémon (All 1025 of them)
 This is a knowledge base of the in-game statistics and mechanics of all 1025* Pokémon, it's going to be a lot of numbers and a lot of math.
 
 ## Main Categories
+- [[pokemon/index|Pokémon]]
+
 - [[type/index|Category 1: Typing]]
 - [[ability/index|Category 2: Ability]]
 - [[generation/index|Category 3: Generation]]
