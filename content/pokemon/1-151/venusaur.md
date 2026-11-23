@@ -29,8 +29,12 @@ infobox:
 > It can Mega Evolve into Mega Venusaur using the Venusaurite. Mega Venusaur was introduced in Generation VI.
 It can Gigantamax into Gigantamax Venusaur if it has the Gigantamax Factor. Gigantamax Venusaur was introduced during Generation VIII, in The Isle of Armor.
 
+**Venusaur**
 ![[1024px-0003Venusaur.png]]
-![[1024px-0003Venusaur-Mega.png]]![[1024px-0003Venusaur-Gigantamax.png]]Bulbasaur is a dual-type [[type/grass|Grass]]/[[type/poison|Poison]] Pokémon introduced in [[generation/genone|Generation I]]. It's main ability is [[ability/overgrow|Overgrow]], and it's hidden ability is [[ability/chlorophyll|Chlorophyll]]. Mega Venusaur's ability changes to [[ability/thickfat|Thick Fat]]. It's [[egg-group/index|egg groups]] are [[egg-group/monster|Monster]] and [[egg-group/grass|Grass]].
+**Mega Venusaur**
+![[1024px-0003Venusaur-Mega.png]]
+**Gigantamax Venusaur**
+![[1024px-0003Venusaur-Gigantamax.png]]Bulbasaur is a dual-type [[type/grass|Grass]]/[[type/poison|Poison]] Pokémon introduced in [[generation/genone|Generation I]]. It's main ability is [[ability/overgrow|Overgrow]], and it's hidden ability is [[ability/chlorophyll|Chlorophyll]]. Mega Venusaur's ability changes to [[ability/thickfat|Thick Fat]]. It's [[egg-group/index|egg groups]] are [[egg-group/monster|Monster]] and [[egg-group/grass|Grass]].
 
 # Evolution
 

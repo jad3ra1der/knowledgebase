@@ -18,7 +18,7 @@ infobox:
       image: images/1024px-0005Charmeleon.png
       caption: Charmeleon
 ---
-Charmeleon is a [[type/fire|Fire-type]] Pokémon introduced in [[generation/genone|Generation I]].
+![[1024px-0005Charmeleon.png]]Charmeleon is a [[type/fire|Fire-type]] Pokémon introduced in [[generation/genone|Generation I]]. It's main ability is [[ability/blaze|Blaze]], and it's hidden ability is [[ability/solarpower|Solar Power]]. It's [[egg-group/index|egg groups]] are [[egg-group/monster|Monster]] and [[egg-group/dragon|Dragon]].
 
 # Evolution
 
@@ -26,21 +26,8 @@ It [[evolution-method/index|evolves]] from [[charmander|Charmander]] starting at
 
 # Stats
 ## Base Stats:
-```chart
-type: bar
-labels: [HP, Attack, Defense, Sp. Atk, Sp. Def, Speed, Out of]
-series:
-  - title: 
-    data: [58, 64, 58, 80, 65, 80, 255]
-tension: 0
-width: 98%
-labelColors: true
-fill: true
-beginAtZero: true
-bestFit: false
-bestFitTitle: undefined
-bestFitNumber: 0
-```
+
+HP: 58, Attack: 64, Defense: 58, Sp. Atk: 80, Sp. Def: 65, Speed: 80
 ## Type Effectiveness:
 ### Weak to:
 - [[type/ground|Ground]]

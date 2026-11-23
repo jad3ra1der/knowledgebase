@@ -37,7 +37,12 @@ infobox:
 > 	- Mega Charizard Y using the Charizardite Y
 It can Gigantamax into Gigantamax Charizard if it has the Gigantamax Factor.
 
-Charizard is a [[type/fire|Fire-type]] Pokémon introduced in [[generation/genone|Generation I]].
+**Charizard**
+![[1024px-0006Charizard.png]]
+**Mega Charizard X![[1024px-0006Charizard-Mega_X.png]]**
+**Mega Charizard Y![[1024px-0006Charizard-Mega_Y.png]]**
+**Gigantamax Charizard![[1024px-0006Charizard.png]]**
+Charizard is a [[type/fire|Fire-type]] Pokémon introduced in [[generation/genone|Generation I]]. It's main ability is [[ability/blaze|Blaze]], and it's hidden ability is [[ability/solarpower|Solar Power]]. Mega Charizard X's ability changes to [[ability/toughclaws|Tough Claws]], and Mega Charizard Y's ability changes to [[ability/drought|Drought]]. It's [[egg-group/index|egg groups]] are [[egg-group/monster|Monster]] and [[egg-group/dragon|Dragon]].
 
 # Evolution
 
@@ -45,54 +50,15 @@ It [[evolution-method/index|evolves]] into [[charmeleon|Charmeleon]] starting at
 
 # Stats
 ## Base Stats:
+
 **Charizard**
-```chart
-type: bar
-labels: [HP, Attack, Defense, Sp. Atk, Sp. Def, Speed, Out of]
-series:
-  - title: 
-    data: [78, 84, 78, 109, 85, 100, 255]
-tension: 0
-width: 98%
-labelColors: true
-fill: true
-beginAtZero: true
-bestFit: false
-bestFitTitle: undefined
-bestFitNumber: 0
-```
+HP: 78, Attack: 84, Defense: 78, Sp. Atk: 109, Sp. Def: 85, Speed: 100
+
 **Mega Charizard X**
-```chart
-type: bar
-labels: [HP, Attack, Defense, Sp. Atk, Sp. Def, Speed, Out of]
-series:
-  - title: 
-    data: [78, 130, 111, 130, 85, 100, 255]
-tension: 0
-width: 98%
-labelColors: true
-fill: true
-beginAtZero: true
-bestFit: false
-bestFitTitle: undefined
-bestFitNumber: 0
-```
+HP: 78, Attack: 130, Defense: 111, Sp. Atk: 130, Sp. Def: 85, Speed: 100
+
 **Mega Charizard Y**
-```chart
-type: bar
-labels: [HP, Attack, Defense, Sp. Atk, Sp. Def, Speed, Out of]
-series:
-  - title: 
-    data: [78, 104, 78, 159, 115, 100, 255]
-tension: 0
-width: 98%
-labelColors: true
-fill: true
-beginAtZero: true
-bestFit: false
-bestFitTitle: undefined
-bestFitNumber: 0
-```
+78, 104, 78, 159, 115, 100
 ## Type Effectiveness:
 ### Charizard & Mega Charizard Y
 #### Weak to:

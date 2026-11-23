@@ -18,7 +18,7 @@ infobox:
       image: images/0004Charmander.png
       caption: Charmander
 ---
-Charmander is a [[type/fire|Fire-type]] Pokémon introduced in [[generation/genone|Generation I]].
+![[0004Charmander.png]]Charmander is a [[type/fire|Fire-type]] Pokémon introduced in [[generation/genone|Generation I]]. It's main ability is [[ability/blaze|Blaze]], and it's hidden ability is [[ability/solarpower|Solar Power]]. It's [[egg-group/index|egg groups]] are [[egg-group/monster|Monster]] and [[egg-group/dragon|Dragon]].
 
 # Evolution
 
@@ -26,21 +26,8 @@ It [[evolution-method/index|evolves]] into [[charmeleon|Charmeleon]] starting at
 
 # Stats
 ## Base Stats:
-```chart
-type: bar
-labels: [HP, Attack, Defense, Sp. Atk, Sp. Def, Speed, Out of]
-series:
-  - title: 
-    data: [39, 52, 43, 60, 50, 65, 255]
-tension: 0
-width: 98%
-labelColors: true
-fill: true
-beginAtZero: true
-bestFit: false
-bestFitTitle: undefined
-bestFitNumber: 0
-```
+
+HP: 39, Attack: 52, Defense: 43, Sp. Atk: 60, Sp. Def: 50, Speed: 65
 ## Type Effectiveness:
 ### Weak to:
 - [[type/ground|Ground]]
