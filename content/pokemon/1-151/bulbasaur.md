@@ -18,7 +18,7 @@ infobox:
       image: images/bdt1_1.png
       caption: Bulbasaur
 ---
-Bulbasaur is a dual-type [[type/grass|Grass]]/[[type/poison|Poison]] Pokémon introduced in [[generation/genone|Generation I]].
+![[bdt1_1.png]]Bulbasaur is a dual-type [[type/grass|Grass]]/[[type/poison|Poison]] Pokémon introduced in [[generation/genone|Generation I]]. It's main ability is [[ability/overgrow|Overgrow]], and it's hidden ability is [[ability/chlorophyll|Chlorophyll]]. It's [[egg-group/index|egg groups]] are [[egg-group/monster|Monster]] and [[egg-group/grass|Grass]].
 
 # Evolution
 
@@ -26,21 +26,8 @@ It [[evolution-method/index|evolves]] into [[pokemon/1-151/ivysaur|Ivysaur]] sta
 
 # Stats
 ## Base Stats:
-```chart
-type: bar
-labels: [HP, Attack, Defense, Sp. Atk, Sp. Def, Speed, Out of]
-series:
-  - title: 
-    data: [45, 49, 49, 65, 65, 45, 255]
-tension: 0
-width: 98%
-labelColors: true
-fill: true
-beginAtZero: true
-bestFit: false
-bestFitTitle: undefined
-bestFitNumber: 0
-```
+
+HP: 45, Attack: 49, Defense: 49, Sp. Atk: 65, Sp. Def: 65, Speed: 45
 ## Type Effectiveness:
 ### Weak to:
 - [[type/flying|Flying]]

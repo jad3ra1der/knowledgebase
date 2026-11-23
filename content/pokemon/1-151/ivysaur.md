@@ -18,7 +18,8 @@ infobox:
       image: images/1024px-0002Ivysaur.png
       caption: Ivysaur
 ---
-Ivysaur is a dual-type [[type/grass|Grass]]/[[type/poison|Poison]] Pokémon introduced in [[generation/genone|Generation I]].
+![[1024px-0002Ivysaur.png]]
+Ivysaur is a dual-type [[type/grass|Grass]]/[[type/poison|Poison]] Pokémon introduced in [[generation/genone|Generation I]]. It's main ability is [[ability/overgrow|Overgrow]], and it's hidden ability is [[ability/chlorophyll|Chlorophyll]]. It's [[egg-group/index|egg groups]] are [[egg-group/monster|Monster]] and [[egg-group/grass|Grass]].
 
 # Evolution
 
@@ -26,21 +27,8 @@ It [[evolution-method/index|evolves]] from [[bulbasaur|Bulbasaur]] starting at l
 
 # Stats
 ## Base Stats:
-```chart
-type: bar
-labels: [HP, Attack, Defense, Sp. Atk, Sp. Def, Speed, Out of]
-series:
-  - title: 
-    data: [60, 62, 63, 80, 80, 60, 255]
-tension: 0
-width: 98%
-labelColors: true
-fill: true
-beginAtZero: true
-bestFit: false
-bestFitTitle: undefined
-bestFitNumber: 0
-```
+
+HP: 60, Attack: 62, Defense: 63, Sp. Atk: 80, Sp. Def: 80, Speed: 60
 ## Type Effectiveness:
 ### Weak to:
 - [[type/flying|Flying]]

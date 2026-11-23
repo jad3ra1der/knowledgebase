@@ -29,7 +29,8 @@ infobox:
 > It can Mega Evolve into Mega Venusaur using the Venusaurite. Mega Venusaur was introduced in Generation VI.
 It can Gigantamax into Gigantamax Venusaur if it has the Gigantamax Factor. Gigantamax Venusaur was introduced during Generation VIII, in The Isle of Armor.
 
-Bulbasaur is a dual-type [[type/grass|Grass]]/[[type/poison|Poison]] Pokémon introduced in [[generation/genone|Generation I]].
+![[1024px-0003Venusaur.png]]
+![[1024px-0003Venusaur-Mega.png]]![[1024px-0003Venusaur-Gigantamax.png]]Bulbasaur is a dual-type [[type/grass|Grass]]/[[type/poison|Poison]] Pokémon introduced in [[generation/genone|Generation I]]. It's main ability is [[ability/overgrow|Overgrow]], and it's hidden ability is [[ability/chlorophyll|Chlorophyll]]. Mega Venusaur's ability changes to [[ability/thickfat|Thick Fat]]. It's [[egg-group/index|egg groups]] are [[egg-group/monster|Monster]] and [[egg-group/grass|Grass]].
 
 # Evolution
 
@@ -39,37 +40,10 @@ It [[evolution-method/index|evolves]] from [[pokemon/1-151/ivysaur|Ivysaur]] sta
 ## Base Stats:
 
 **Venusaur**
-```chart
-type: bar
-labels: [HP, Attack, Defense, Sp. Atk, Sp. Def, Speed, Out of]
-series:
-  - title: 
-    data: [80, 82, 83, 100, 100, 80, 255]
-tension: 0
-width: 98%
-labelColors: true
-fill: true
-beginAtZero: true
-bestFit: false
-bestFitTitle: undefined
-bestFitNumber: 0
-```
+HP: 80, Attack: 82, Defense: 83, Sp. Atk: 100, Sp. Def: 100, Speed: 80
+
 **Mega Venusaur**
-```chart
-type: bar
-labels: [HP, Attack, Defense, Sp. Atk, Sp. Def, Speed, Out of]
-series:
-  - title: 
-    data: [80, 100, 123, 122, 120, 80, 255]
-tension: 0
-width: 98%
-labelColors: true
-fill: true
-beginAtZero: true
-bestFit: false
-bestFitTitle: undefined
-bestFitNumber: 0
-```
+HP: 80, Attack: 100, Defense: 123, Sp. Atk: 122, Sp. Def: 120, Speed: 80
 
 ## Type Effectiveness:
 ### Weak to:
